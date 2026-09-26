@@ -1,0 +1,6 @@
+{
+  "name": "IncomeFlow - Business Income & Revenue Management",
+  "description": "Fast and responsive business income management system to track daily and monthly revenue, clients, services, expenses, and transactions with instant financial calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
